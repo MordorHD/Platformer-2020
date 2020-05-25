@@ -1,0 +1,20 @@
+<Map>
+<Player>0,0</Player>
+<Bounds>-2,0,2,200</Bounds>
+<SideScrollerMode>Y</SideScrollerMode>
+<Collision type = "STONE">0,0</Collision>
+<Collision type = "STONE">0,1</Collision>
+<Collision type = "STONE">0,2</Collision>
+<Collision type = "STONE">0,3</Collision>
+<Collision type = "STONE">0,4</Collision>
+<Collision type = "STONE">0,5</Collision>
+<Collision type = "STONE">0,6</Collision>
+<Collision type = "STONE">0,7</Collision>
+<Collision type = "STONE">0,8</Collision>
+<Collision type = "STONE">-1,8</Collision>
+<Collision type = "STONE">1,8</Collision>
+<Collision type = "STONE">-1,200</Collision>
+<Collision type = "STONE">0,200</Collision>
+<Collision type = "STONE">-2,200</Collision>
+<Collision type = "STONE">2,200</Collision>
+</Map>
